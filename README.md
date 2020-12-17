@@ -2,7 +2,7 @@
 # 使用说明
 
 
-### How to hack jira [atlassian-agent](https://gitee.com/pengzhile/atlassian-agent)
+### How to hack jira
 
 ```
 docker exec <container-name> java -jar /opt/agent/atlassian-agent.jar \
@@ -30,6 +30,8 @@ docker exec <container-name> java -jar /opt/agent/atlassian-agent.jar \
 ```
 4. Paste your license
 
+
+### Document[atlassian-agent](https://gitee.com/pengzhile/atlassian-agent)
 
 
 
